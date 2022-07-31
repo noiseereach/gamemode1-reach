@@ -1,4 +1,4 @@
-##https://discord.gg/DBSESwuyek
+##https://discord.gg/dwfqfkBR
 SonOyuncu sunucusunda oyun modunu sahte bir şekilde gamemode1'e çevirir ve oyunculara uzaktan vurmanızı sağlar (banlatıyor)
 
 1- Visual studio'dan c# form uygulaması oluşturun
